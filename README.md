@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Web Developer and Coding Enthusiast Crafting Digital Experiences</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="300" width="300">
 <br><br>
-- 🌱 I’m currently learning **Tailwind,DSA.**
+- 🌱 I’m currently learning **Sockets,DSA.**
 
 - 👨‍💻 All of my projects are available at [https://pankajlamgria.netlify.app/](https://pankajlamgria.netlify.app/)
 
